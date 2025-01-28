@@ -11,4 +11,5 @@ Web Development Workshop 28-01-2025
 Day 2 of Web Development folder includes:
 1. Javascript Introduction
 2. Making use of Inspection features
-3. Example of above programs
+3. Developing Database backend for Python and HTML
+4. Example of above programs
