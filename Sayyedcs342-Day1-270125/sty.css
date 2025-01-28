@@ -1,0 +1,27 @@
+*{
+    font-family:sans-serif;
+}
+h1,
+h2{
+    color:rgb(0, 60, 255);
+    font-weight:bold;
+    font-size:large;
+
+}
+body {
+    max-width:700px;
+    margin: 0 auto;
+    background-color: rgb(0, 132, 132);
+}
+.left{
+    color:yellowgreen;
+    text-align: left;
+}
+.center{
+    color:brown;
+    text-align: center;
+}
+.right{
+    color: chocolate;
+    text-align: right;
+}
